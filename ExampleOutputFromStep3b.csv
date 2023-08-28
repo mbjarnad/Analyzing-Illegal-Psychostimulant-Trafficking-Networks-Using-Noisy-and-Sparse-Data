@@ -1,0 +1,9 @@
+Iterations Anecdotal,Threshold Concordance Rate,Concordance Rate between Anecdotal and Inferred Dataset
+1,0.8,0.073170732
+2,0.7,0.134090909
+3,0.57,0.187086093
+4,0.57,0.240310078
+5,0.52,0.256559767
+6,0.52,0.269230769
+7,0.57,0.283045977
+8,0.57,0.290830946
